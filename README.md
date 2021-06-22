@@ -10,4 +10,4 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ## To run
 
-python test.py
+python foobar.py
